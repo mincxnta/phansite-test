@@ -1,5 +1,5 @@
 // src/config/api.js
-const API_URL = 'http://localhost:3000'
+export const API_URL = 'http://localhost:3000'
 
 export const api = {
   login: async (data) => {

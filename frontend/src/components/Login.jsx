@@ -1,6 +1,6 @@
 // src/components/Login.jsx
 import React, { useState } from 'react'
-import API_URL from '../config/api'
+import { API_URL } from '../config/api'
 
 const Login = () => {
   const [username, setUsername] = useState('')
