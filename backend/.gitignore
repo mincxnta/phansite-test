@@ -1,0 +1,21 @@
+# Dependències de node.js
+/node_modules/
+
+# Fitxers de log
+*.log
+
+# Directori de compilació
+/dist/
+
+# Fitxers de configuració de l'IDE (per exemple, VS Code)
+.vscode/
+
+# Fitxers de configuració de l'editor (com Sublime Text, etc.)
+.idea/
+
+# Fitxers generats per npm
+npm-debug.log
+yarn-error.log
+
+# Fitxers locals de configuració
+.env
